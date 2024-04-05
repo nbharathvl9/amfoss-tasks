@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    background-color:#001433;
+}
+.gundi{
+    height: 260px ;
+    width: 180px;
+    background-color: #00000092;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 15px;
+    border-bottom-width: 15px;
+    border-bottom-color: #0062ff;
+    
+
+}
+.pedha{
+    display: flex;
+    margin-left: 400px;
+
+}
+
+.image1{
+    margin-top: -75px;
+    height: 125px;
+    width: 120px;
+
+}
+.image2{
+    margin-top: -75px;
+    height: 125px;
+    width: 120px;
+
+}
+.text{
+    color: aliceblue;
+    margin-bottom: -10px;
+    margin-left: -10px;
+    font-weight: bolder;
+    font-size:large;
+    font-stretch: condensed;
+}
+.cost{
+    color: aliceblue;
+    margin-left: -90px;
+    font-stretch: condensed;
+    font-size:large;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: -50px;
+}
