@@ -1,0 +1,30 @@
+" Enable syntax highlighting
+syntax enable
+
+" Set tab width to 4 spaces
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+" Enable line numbers
+set number
+
+" Highlight search results as you type
+set incsearch
+
+" Ignore case when searching
+set ignorecase
+
+" Enable mouse support
+set mouse=a
+
+" Set encoding to UTF-8
+set encoding=utf-8
+
+" Set backup and undo options
+set backup
+set undofile
+
+" Set text width for text files
+autocmd FileType text setlocal textwidth=78
+
