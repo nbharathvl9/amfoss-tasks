@@ -1,5 +1,5 @@
 # Successfully Installed Linux on My PC
-
+![Ubuntu](linux.png)
 ## Introduction
 After much research and deliberation, I've finally taken the plunge and installed Linux on my PC. Here's a rundown of the journey I embarked upon to make this happen.
 
@@ -41,5 +41,5 @@ With the base system up and running, I began customizing my Linux experience by 
 
 ## Conclusion
 And there you have it – I've successfully installed Linux on my PC! With a newfound sense of freedom and flexibility, I'm excited to explore all that the Linux ecosystem has to offer.
-![Ubuntu](linux.png)
+
 
