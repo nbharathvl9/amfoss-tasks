@@ -41,5 +41,5 @@ With the base system up and running, I began customizing my Linux experience by 
 
 ## Conclusion
 And there you have it – I've successfully installed Linux on my PC! With a newfound sense of freedom and flexibility, I'm excited to explore all that the Linux ecosystem has to offer.
-![Ubuntu](/home/bharath/All amfoss files/amfoss-tasks/task-00/linux.png)
+![Ubuntu](linux.png)
 
