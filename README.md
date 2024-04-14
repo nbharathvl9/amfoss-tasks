@@ -16,7 +16,6 @@ I'd like to provide some insights on the selection process. It’s crucial to re
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-
 [Task-00](https://github.com/nbharathvl9/amfoss-tasks/tree/main/task-00)|Linux Instalation|Finished
 [Task-01](https://github.com/nbharathvl9/amfoss-tasks/tree/main/task-01)|Terminal Wizard|Finished
 [Task-02](https://github.com/nbharathvl9/amfoss-tasks/tree/main/task-02)|Lessgo Hugo|Finished
