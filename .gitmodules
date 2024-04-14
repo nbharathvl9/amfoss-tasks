@@ -1,3 +1,4 @@
-[submodule "task-02/blog"]
+[submodule - "task-02/blog"]
 	path = task-02/blog
 	url = https://github.com/nbharathvl9/blog
+
